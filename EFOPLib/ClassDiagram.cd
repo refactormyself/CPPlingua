@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Efop::Environ">
+    <Position X="1.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAIgACAQAAgBAAECAAAAQAABAQQABAAAQAAgABBACAA=</HashCode>
+      <FileName>Environ.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Efop::Membrane">
+    <Position X="4.75" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQIAgAAAABBBAIICABAAERUABQgAAAAAAAAAAAA=</HashCode>
+      <FileName>Membrane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Efop::Rule">
+    <Position X="8.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAEAAAgAAAAAAAAAAAgAAAACAIAAAAABAAAA=</HashCode>
+      <FileName>Rule.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
