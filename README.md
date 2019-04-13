@@ -13,5 +13,17 @@ I have taken a different approach to my implementation of the P system from thos
 - [ ] Write more test
 - [ ] Create GUI-qt project
 - [ ] Port GUI-qt to GUI-copperspice (Nice guys)
-- [ ] Implement serious features of P Systems
-- [ ] 
+- [ ] Implement some serious features of P Systems like [this](https://www.youtube.com/watch?v=XoQSTJcrEj8)
+- [ ] Then this project will END
+
+***Resoucres and Inspirations***
+- Intoduction by Madam of CS Theory, herself [here](https://www.youtube.com/watch?v=_NVimKY1XzI) and mayabe the same [here](https://www.youtube.com/watch?v=GQvNv9uhmbw)
+
+- [Marc Clifton](http://www.marcclifton.com/) [github](https://github.com/cliftonm) uses his [HOPE softare](https://github.com/cliftonm/HOPE) to brilliantly demonastrate Membrane Computing [here](https://www.youtube.com/watch?v=XoQSTJcrEj8). At this point in this project this exactly show what I have in mind. This guy is one them [sourcerers](https://www.youtube.com/watch?v=TOOkp-r590I)
+
+- [and this guy too](http://juankysoriano.com/projects)
+
+- [P System plug-in in P-Labs](https://www.youtube.com/watch?v=LFHxSPD9Y5M)
+
+- this is also interesting from [Dr Rufai Idowu](https://www.researchgate.net/profile/Rufai_Idowu) on [Intrusion detection](https://www.youtube.com/watch?v=Mgf6gO1olIA)
+
